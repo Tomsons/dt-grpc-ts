@@ -1,9 +1,12 @@
 {
-  "name": "dt-grpc-ts",
+  "name": "@tomsons/dt-grpc-ts",
   "version": "0.0.1",
   "description": "gRPC client library for Draw Things",
   "author": "Kelly Jerrell",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/kcjerrell/dt-grpc-ts.git"
